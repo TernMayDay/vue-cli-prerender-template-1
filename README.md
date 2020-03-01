@@ -3,5 +3,5 @@
 vue-cli 3 測試版本
 
 ```script
-vue create --preset TernMayDay/vue-cli-prerender-template {{ PROJECT_NAME }}
+vue create --preset TernMayDay/vue-cli-prerender-template-1 {{ PROJECT_NAME }}
 ```
